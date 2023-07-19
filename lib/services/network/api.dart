@@ -14,7 +14,7 @@ class ApiProvider {
     String apiKey = '';
     Uri uri = Uri.https(
       url,
-      "/data/2.5/onecall",
+      // "/data/2.5/onecall",
       // {
       //   "appid": apiKey,
       //   "lat": lat.toString(),
